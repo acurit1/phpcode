@@ -1,5 +1,5 @@
 <?php
-//Programmer: Alexander Curit
+//Programmer: Alex Curit
 //Audio File Picker
 //Description: This program is meant to take in a variable from the URL
 //which corresponds with an audio file.  Built for Heidi's Kindergarten
